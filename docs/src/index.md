@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage:
-tagline: とびしま海道や周防大島をルアーで釣り歩いています
+tagline: とびしま海道や周防大島をランガンしています
 actionText: Blog →
 actionLink: /blog/
 features:
