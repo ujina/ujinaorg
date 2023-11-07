@@ -6,11 +6,11 @@ actionText: Blog →
 actionLink: /blog/
 features:
 - title: 海でトレーニング
-  details: 釣れても釣れなくてもトレーニングなので
+  details: 釣れても釣れなくてもトレーニングだと思えば通えます。
 - title: 地下足袋ウェーディング
   details: スパイク足袋で地磯やゴロタ浜歩き。タングステンピン追加で耐久性アップ。
 - title: 流れの中の釣り
-  details: ミノーでハマチがつれてから海峡の強流・激流にどハマり
+  details: 2023年6月。ミノーでハマチがつれてから海峡の強流釣りにどハマり。
 
 footer: Made by  with ❤️
 ---
