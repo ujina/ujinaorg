@@ -22,12 +22,7 @@
                     )
                     
                     //(page => page.path.startsWith('/blog/'))
-          .sort (
-                        (a, b) =>
-                            new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
-                    );
-                    
-                    //((a, b) => b.frontmatter.postId - a.frontmatter.postId);
+          .sort ((a, b) => b.frontmatter.postId - a.frontmatter.postId);
       }
     }
   }
