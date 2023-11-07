@@ -5,10 +5,12 @@
           <router-link :to="post.path">{{post.frontmatter.title}}</router-link>
         </h3>
         
- <!--      <div>{{post.frontmatter.description}}</div>  -->
+ <!--      <div>{{post.frontmatter.description}}</div> -->
+
         <div>
           <router-link :to="post.path">Read More</router-link>
         </div>
+        
       </div>
     </div>
   </template>
