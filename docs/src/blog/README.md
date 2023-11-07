@@ -1,3 +1,5 @@
-海トレBlog 
-
-左のメニューから日付をクリック
+---
+title: 海トレBlog
+blog_index: true
+---
+<BlogIndex/>
