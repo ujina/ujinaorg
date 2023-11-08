@@ -1,16 +1,15 @@
 <template>
     <div>
       <div v-for="post in posts">
-        <h3>
+        <h2>
           <router-link :to="post.path">{{post.frontmatter.title}}</router-link>
-        </h3>
+        </h2>
         
- <!--      <div>{{post.frontmatter.description}}</div> -->
+  <div>{{post.frontmatter.description}}</div> 
 
-        <div>
+        <p>
           <router-link :to="post.path">Read More</router-link>
-        </div>
-        
+        </p>
       </div>
     </div>
   </template>

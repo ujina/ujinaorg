@@ -39,8 +39,8 @@ module.exports = {
     lastUpdated: '最終更新日',
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Intro',
+        link: '/intro/',
       },
       {
         text: 'Tackle',
@@ -53,12 +53,13 @@ module.exports = {
     ],
     
     sidebar: {
-      '/guide/': [
+      '/intro/': [
         {
-          title: 'Guide',
+          title: '',
           collapsable: false,
           children: [
             '',
+            '/blog/',
           ]
         }
       ],
