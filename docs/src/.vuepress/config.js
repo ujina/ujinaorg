@@ -47,6 +47,10 @@ module.exports = {
         link: '/tackle/',
       },
       {
+        text: 'Spot',
+        link: '/spot/',
+      },
+      {
         text: 'Blog',
         link: '/blog/',
       }
@@ -74,6 +78,15 @@ module.exports = {
           }
       ],
 
+      '/spot/': [
+        {
+          title: 'Spot',
+          collapsable: false,
+          children: [
+            '',
+          ]
+          }
+      ],
 
        '/blog/': [
         {
