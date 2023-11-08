@@ -1,19 +1,20 @@
 {
-  "name": "umitraining",
+  "name": "ujinaorg",
   "version": "0.0.1",
-  "description": "",
+  "description": "dairy",
   "main": "index.js",
   "authors": {
-    "name": "",
-    "email": ""
+    "name": "TORU OGASAWARA",
+    "email": "ujina@me.com"
   },
-  "repository": "/umitraining",
+  "repository": "/ujinaorg",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.10",
     "vuepress": "^1.5.3"
   }
 }
