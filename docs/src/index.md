@@ -12,5 +12,5 @@ features:
 - title: 流れの中の釣り
   details: 2023年6月。ミノーでハマチがつれてから海峡の強流釣りにどハマり。
 
-footer: Made by  OGASHOSHI
+footer: Made by OGASHOSHI
 ---
