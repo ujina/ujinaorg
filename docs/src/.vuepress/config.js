@@ -54,8 +54,7 @@ module.exports = {
         text: 'Blog',
         link: '/blog/',
       }
-    ],
-    
+    ],    
     sidebar: {
       '/intro/': [
         {
@@ -77,7 +76,6 @@ module.exports = {
           ]
           }
       ],
-
       '/spot/': [
         {
           title: 'Spot',
@@ -87,7 +85,6 @@ module.exports = {
           ]
           }
       ],
-
        '/blog/': [
         {
           title: '',
@@ -113,9 +110,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    '@vuepress/google-analytics',
-    {
-      'ga': 'G-2WBSZLGTK1'
-    }
   ]
+  
 }
