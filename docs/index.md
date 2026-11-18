@@ -6,12 +6,12 @@ hero:
   tagline: しまなみ・とびしま海道や周防大島をランガンしています
   actions:
     - theme: brand
-      text: Blog →
+      text: Blog
       link: /blog/
 
 features:
-  - title: 海でトレーニング
-    details: 釣れても釣れなくてもトレーニングには通います。
+  - title: 海歩きでトレーニング
+    details: 釣れても釣れなくても海に通います。
   - title: 地下足袋ウェーディング
     details: スパイク足袋で地磯やゴロタ浜歩き。タングステンピン追加で耐久性アップ。
   - title: 流れの中の釣り
