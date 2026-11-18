@@ -6,6 +6,8 @@
 
 ## ロッド
 
+- 24ソルパラ　SPSJ100mh
+- アブガルシア　プロトタイプ　XSJS106mh60
 - ヤマガブランクス EARY for Surf 103M
 - アブガルシア　プロトタイプ XSBS1002mmh
 - がまかつ  ラグゼ   チータR3 100MH
@@ -15,6 +17,7 @@
 
 ## リール
 
+- PENN SLAMMERⅣ　3500
 - SHIMANO 23 STRADIC C5000XG
 - SHIMANO 19 STRADIC C5000XG
 - SHIMANO 13 BIOMASTER SW 4000XG
