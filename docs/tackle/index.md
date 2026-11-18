@@ -6,18 +6,19 @@
 
 ## ロッド
 
-- 24ソルパラ　SPSJ100mh
-- アブガルシア　プロトタイプ　XSJS106mh60
+- 24ソルパラ SPSJ100MH
+- アブガルシア プロトタイプ XSJS106MH60
 - ヤマガブランクス EARY for Surf 103M
-- アブガルシア　プロトタイプ XSBS1002mmh
-- がまかつ  ラグゼ   チータR3 100MH
+- 24ソルパラ SPSB-962M
+- 24ソルパラ SPSJ962M/SLJ
 - がまかつ  ラグゼ  チータR3 96M
 - がまかつ  ラグゼ  コヨーテ S100H
 - がまかつ  ラグゼ  コヨーテ S96MH
 
 ## リール
 
-- PENN SLAMMERⅣ　3500
+- PENN SLAMMER Ⅳ　3500
+- DAIWA 24 セルテート　C3000HG
 - SHIMANO 23 STRADIC C5000XG
 - SHIMANO 19 STRADIC C5000XG
 - SHIMANO 13 BIOMASTER SW 4000XG
